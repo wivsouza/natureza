@@ -1,4 +1,3 @@
 # 🗿🗿 natureza 🗿🗿
-
-
+inputo  git 
  
